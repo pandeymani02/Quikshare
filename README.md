@@ -1,2 +1,2 @@
-# Quikshare
+# PrintPal: Your Printing Partner
 A WEB-APPLICATION WHICH MAKES YOUR FILE SHARING EASIER
